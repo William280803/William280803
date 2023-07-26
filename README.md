@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Coding and trading
 - 🌱 I’m currently learning Coding and trading
 - 💞️ I’m looking to collaborate on Coding for begginer
-- 📫 How to reach me discord link:https://discord.gg/9tnDxam7
+- 📫 How to reach me email: williamalim410@gmail.com
 
 <!---
 William280803/William280803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
